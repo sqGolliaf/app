@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: AppDesc
+
+file:
+  url: "src/main/resources/data.ont"
